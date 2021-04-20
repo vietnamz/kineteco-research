@@ -22,7 +22,7 @@ mypy-extensions==0.4.1
 pact-python==0.18.0
 pluggy==0.8.0
 psycopg2==2.7.6.1
-py==1.7.0
+py==1.10.0
 pycodestyle==2.4.0
 pyflakes==2.0.0
 pytest==4.0.1
