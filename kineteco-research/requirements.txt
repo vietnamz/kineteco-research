@@ -10,7 +10,7 @@ flask-restplus==0.12.1
 Flask-Script==2.0.6
 flask-shell-ipython==0.4.0
 Flask-SQLAlchemy==2.3.2
-ipython==7.2.0
+ipython==7.16.3
 itsdangerous==1.1.0
 Jinja2==2.10
 Mako==1.0.7
